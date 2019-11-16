@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <android.support.constraint.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/recycler_item_border">
+
+
+            <TextView
+                android:id="@+id/textView_time_item_recycler_forecast"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="8dp"
+                android:text="hh:mm"
+                android:textSize="30sp"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <TextView
+                android:id="@+id/textView_description_item_recycler_forecast"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="8dp"
+                android:layout_marginTop="8dp"
+                android:text="suncanoo"
+                android:textSize="24sp"
+                app:layout_constraintEnd_toEndOf="@+id/textView_temperature_item_recycler_forecast"
+                app:layout_constraintStart_toStartOf="@+id/imageView_temperature_forecast"
+                app:layout_constraintTop_toBottomOf="@+id/textView_temperature_item_recycler_forecast" />
+
+            <TextView
+                android:id="@+id/textView_temperature_item_recycler_forecast"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginEnd="8dp"
+                android:paddingTop="0dp"
+                android:text="25°C"
+                android:textAlignment="center"
+                android:textSize="36sp"
+                app:layout_constraintEnd_toStartOf="@+id/imageView_weather_item_recycler_forecast"
+                app:layout_constraintTop_toTopOf="@+id/imageView_weather_item_recycler_forecast" />
+
+            <TextView
+                android:id="@+id/textView_temperatureMin_item_recycler_forecast"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="8dp"
+                android:text="22°C"
+                android:textSize="18sp"
+                app:layout_constraintBottom_toBottomOf="@+id/imageView_temperatre_min_forecast"
+                app:layout_constraintStart_toEndOf="@+id/imageView_temperatre_min_forecast"
+                app:layout_constraintTop_toTopOf="@+id/imageView_temperatre_min_forecast" />
+
+            <ImageView
+                android:id="@+id/imageView_weather_item_recycler_forecast"
+                android:layout_width="@dimen/weather_desc_icon_width"
+                android:layout_height="@dimen/weather_desc_icon_height"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:srcCompat="@mipmap/ic_launcher" />
+
+            <TextView
+                android:id="@+id/textView_temperatureMax_item_recycler_forecast"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="8dp"
+                android:text="27°C"
+                android:textSize="18sp"
+                app:layout_constraintBottom_toBottomOf="@+id/imageView_temperature_max_forecast"
+                app:layout_constraintStart_toEndOf="@+id/imageView_temperature_max_forecast"
+                app:layout_constraintTop_toTopOf="@+id/imageView_temperature_max_forecast" />
+
+            <ImageView
+                android:id="@+id/imageView_temperature_forecast"
+                android:layout_width="@dimen/icon_width"
+                android:layout_height="@dimen/icon_height"
+                android:layout_marginStart="32dp"
+                android:layout_marginEnd="8dp"
+                app:layout_constraintEnd_toStartOf="@+id/textView_temperature_item_recycler_forecast"
+                app:layout_constraintStart_toEndOf="@+id/textView_time_item_recycler_forecast"
+                app:layout_constraintTop_toTopOf="@+id/textView_temperature_item_recycler_forecast"
+                app:srcCompat="@drawable/temp" />
+
+            <ImageView
+                android:id="@+id/imageView_temperatre_min_forecast"
+                android:layout_width="@dimen/icon_small_width"
+                android:layout_height="@dimen/icon_small_height"
+                app:layout_constraintStart_toStartOf="@+id/imageView_temperature_max_forecast"
+                app:layout_constraintTop_toBottomOf="@+id/imageView_temperature_max_forecast"
+                app:srcCompat="@drawable/temp_low" />
+
+            <ImageView
+                android:id="@+id/imageView_temperature_max_forecast"
+                android:layout_width="@dimen/icon_small_width"
+                android:layout_height="@dimen/icon_small_height"
+                app:layout_constraintStart_toStartOf="@+id/textView_time_item_recycler_forecast"
+                app:layout_constraintTop_toBottomOf="@+id/textView_time_item_recycler_forecast"
+                app:srcCompat="@drawable/temp_high" />
+
+        </android.support.constraint.ConstraintLayout>
+    </android.support.v7.widget.CardView>
+
+</LinearLayout>

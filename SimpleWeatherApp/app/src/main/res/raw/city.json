@@ -1,0 +1,2792 @@
+[
+  {
+    "id": 6542338,
+    "name": "Teverola",
+    "country": "IT",
+    "coord": {
+      "lon": 14.20763,
+      "lat": 40.995609
+    }
+  },
+  {
+    "id": 2854950,
+    "name": "Pennigbüttel",
+    "country": "DE",
+    "coord": {
+      "lon": 8.81667,
+      "lat": 53.25
+    }
+  },
+  {
+    "id": 1632312,
+    "name": "Parit",
+    "country": "ID",
+    "coord": {
+      "lon": 104.633331,
+      "lat": -3.16667
+    }
+  },
+  {
+    "id": 1730555,
+    "name": "Aupagan",
+    "country": "PH",
+    "coord": {
+      "lon": 125.555,
+      "lat": 8.89056
+    }
+  },
+  {
+    "id": 2644749,
+    "name": "Leadgate",
+    "country": "GB",
+    "coord": {
+      "lon": -1.8,
+      "lat": 54.866669
+    }
+  },
+  {
+    "id": 448600,
+    "name": "Al Khālidīyah",
+    "country": "SA",
+    "coord": {
+      "lon": 46.759441,
+      "lat": 24.622219
+    }
+  },
+  {
+    "id": 3428067,
+    "name": "San Vicente",
+    "country": "AR",
+    "coord": {
+      "lon": -58.42276,
+      "lat": -35.025002
+    }
+  },
+  {
+    "id": 3179952,
+    "name": "Case Arfel",
+    "country": "IT",
+    "coord": {
+      "lon": 7.78333,
+      "lat": 44.25
+    }
+  },
+  {
+    "id": 6443216,
+    "name": "Fontaine-sous-Préaux",
+    "country": "FR",
+    "coord": {
+      "lon": 1.16806,
+      "lat": 49.48444
+    }
+  },
+  {
+    "id": 3017998,
+    "name": "Fontaine-sous-Préaux",
+    "country": "FR",
+    "coord": {
+      "lon": 1.16728,
+      "lat": 49.484051
+    }
+  },
+  {
+    "id": 3187413,
+    "name": "Volosko",
+    "country": "HR",
+    "coord": {
+      "lon": 14.3175,
+      "lat": 45.348888
+    }
+  },
+  {
+    "id": 2614935,
+    "name": "Ravnkilde",
+    "country": "DK",
+    "coord": {
+      "lon": 9.75264,
+      "lat": 56.756088
+    }
+  },
+  {
+    "id": 2611539,
+    "name": "Tolne",
+    "country": "DK",
+    "coord": {
+      "lon": 10.31169,
+      "lat": 57.48135
+    }
+  },
+  {
+    "id": 2612157,
+    "name": "Studsdal",
+    "country": "DK",
+    "coord": {
+      "lon": 9.59834,
+      "lat": 55.53117
+    }
+  },
+  {
+    "id": 2620249,
+    "name": "Hjelmager",
+    "country": "DK",
+    "coord": {
+      "lon": 10.31756,
+      "lat": 56.276562
+    }
+  },
+  {
+    "id": 2617834,
+    "name": "Lejbjerg",
+    "country": "DK",
+    "coord": {
+      "lon": 9.96667,
+      "lat": 57.01667
+    }
+  },
+  {
+    "id": 605314,
+    "name": "Karesuando",
+    "country": "SE",
+    "coord": {
+      "lon": 22.47047,
+      "lat": 68.43959
+    }
+  },
+  {
+    "id": 1688216,
+    "name": "Santa Cruz",
+    "country": "PH",
+    "coord": {
+      "lon": 120.98333,
+      "lat": 14.6
+    }
+  },
+  {
+    "id": 6545083,
+    "name": "Sol",
+    "country": "ES",
+    "coord": {
+      "lon": -3.70327,
+      "lat": 40.416641
+    }
+  },
+  {
+    "id": 8010463,
+    "name": "Freixo de Espada À Cinta",
+    "country": "PT",
+    "coord": {
+      "lon": -6.82463,
+      "lat": 41.12344
+    }
+  },
+  {
+    "id": 8014178,
+    "name": "Freixo de Espada À Cinta",
+    "country": "PT",
+    "coord": {
+      "lon": -6.82992,
+      "lat": 41.083981
+    }
+  },
+  {
+    "id": 2739222,
+    "name": "Freixo de Espada à Cinta",
+    "country": "PT",
+    "coord": {
+      "lon": -6.80648,
+      "lat": 41.090328
+    }
+  },
+  {
+    "id": 3998025,
+    "name": "Los Camotes",
+    "country": "MX",
+    "coord": {
+      "lon": -108.833328,
+      "lat": 27.26667
+    }
+  },
+  {
+    "id": 6433286,
+    "name": "Pisieu",
+    "country": "FR",
+    "coord": {
+      "lon": 5.06028,
+      "lat": 45.387218
+    }
+  },
+  {
+    "id": 3005646,
+    "name": "La Verrerie",
+    "country": "FR",
+    "coord": {
+      "lon": 5.08726,
+      "lat": 45.41375
+    }
+  },
+  {
+    "id": 2646356,
+    "name": "Hurst Green",
+    "country": "GB",
+    "coord": {
+      "lon": -2.48333,
+      "lat": 53.833328
+    }
+  },
+  {
+    "id": 3365999,
+    "name": "Kenridge",
+    "country": "ZA",
+    "coord": {
+      "lon": 18.63633,
+      "lat": -33.85918
+    }
+  },
+  {
+    "id": 3361026,
+    "name": "Stellenberg",
+    "country": "ZA",
+    "coord": {
+      "lon": 18.65992,
+      "lat": -33.866089
+    }
+  },
+  {
+    "id": 7304451,
+    "name": "Bagarmossen",
+    "country": "SE",
+    "coord": {
+      "lon": 18.131821,
+      "lat": 59.277199
+    }
+  },
+  {
+    "id": 3043700,
+    "name": "Trombitásmalom",
+    "country": "HU",
+    "coord": {
+      "lon": 16.949181,
+      "lat": 47.27306
+    }
+  },
+  {
+    "id": 6451495,
+    "name": "Gonfaron",
+    "country": "FR",
+    "coord": {
+      "lon": 6.28917,
+      "lat": 43.32056
+    }
+  },
+  {
+    "id": 4464080,
+    "name": "Drake",
+    "country": "US",
+    "coord": {
+      "lon": -77.817482,
+      "lat": 36.038212
+    }
+  },
+  {
+    "id": 2511125,
+    "name": "Santa María de Gracia",
+    "country": "ES",
+    "coord": {
+      "lon": -16.26667,
+      "lat": 28.466669
+    }
+  },
+  {
+    "id": 6542131,
+    "name": "Livigno",
+    "country": "IT",
+    "coord": {
+      "lon": 10.13375,
+      "lat": 46.53471
+    }
+  },
+  {
+    "id": 5415005,
+    "name": "Bronquist",
+    "country": "US",
+    "coord": {
+      "lon": -104.891647,
+      "lat": 38.20195
+    }
+  },
+  {
+    "id": 5415546,
+    "name": "Burnt Mill",
+    "country": "US",
+    "coord": {
+      "lon": -104.796371,
+      "lat": 38.05167
+    }
+  },
+  {
+    "id": 3832717,
+    "name": "Villa Independencia",
+    "country": "AR",
+    "coord": {
+      "lon": -64.513222,
+      "lat": -31.45594
+    }
+  },
+  {
+    "id": 1549542,
+    "name": "Zhudun",
+    "country": "CN",
+    "coord": {
+      "lon": 118.58889,
+      "lat": 34.561111
+    }
+  },
+  {
+    "id": 2688188,
+    "name": "Norsborg",
+    "country": "SE",
+    "coord": {
+      "lon": 17.81394,
+      "lat": 59.24493
+    }
+  },
+  {
+    "id": 3911642,
+    "name": "La Villa",
+    "country": "BO",
+    "coord": {
+      "lon": -65.800003,
+      "lat": -17.51667
+    }
+  },
+  {
+    "id": 3337383,
+    "name": "Værløse",
+    "country": "DK",
+    "coord": {
+      "lon": 12.375,
+      "lat": 55.724998
+    }
+  },
+  {
+    "id": 559577,
+    "name": "Gorodishchi",
+    "country": "RU",
+    "coord": {
+      "lon": 38.733608,
+      "lat": 55.110229
+    }
+  },
+  {
+    "id": 1882707,
+    "name": "Chinese Gardens",
+    "country": "SG",
+    "coord": {
+      "lon": 103.797783,
+      "lat": 1.31139
+    }
+  },
+  {
+    "id": 2617982,
+    "name": "Langå",
+    "country": "DK",
+    "coord": {
+      "lon": 10.72176,
+      "lat": 55.194229
+    }
+  },
+  {
+    "id": 2616773,
+    "name": "Mørke",
+    "country": "DK",
+    "coord": {
+      "lon": 10.38187,
+      "lat": 56.33453
+    }
+  },
+  {
+    "id": 2646588,
+    "name": "Horning",
+    "country": "GB",
+    "coord": {
+      "lon": 1.46491,
+      "lat": 52.70715
+    }
+  },
+  {
+    "id": 2610155,
+    "name": "Virum",
+    "country": "DK",
+    "coord": {
+      "lon": 12.45103,
+      "lat": 55.79488
+    }
+  },
+  {
+    "id": 2615754,
+    "name": "Ølby Lyng",
+    "country": "DK",
+    "coord": {
+      "lon": 12.18416,
+      "lat": 55.49015
+    }
+  },
+  {
+    "id": 2617179,
+    "name": "Lystrup",
+    "country": "DK",
+    "coord": {
+      "lon": 12.24028,
+      "lat": 55.36055
+    }
+  },
+  {
+    "id": 2641005,
+    "name": "Old Monkland",
+    "country": "GB",
+    "coord": {
+      "lon": -4.03781,
+      "lat": 55.850319
+    }
+  },
+  {
+    "id": 2612025,
+    "name": "Svenstrup",
+    "country": "DK",
+    "coord": {
+      "lon": 10.56038,
+      "lat": 56.407902
+    }
+  },
+  {
+    "id": 2610912,
+    "name": "Ulstrup",
+    "country": "DK",
+    "coord": {
+      "lon": 11.67649,
+      "lat": 55.32753
+    }
+  },
+  {
+    "id": 2620229,
+    "name": "Hjerm",
+    "country": "DK",
+    "coord": {
+      "lon": 8.63453,
+      "lat": 56.438438
+    }
+  },
+  {
+    "id": 2623240,
+    "name": "Bur",
+    "country": "DK",
+    "coord": {
+      "lon": 8.42665,
+      "lat": 56.36496
+    }
+  },
+  {
+    "id": 2610543,
+    "name": "Vemb",
+    "country": "DK",
+    "coord": {
+      "lon": 8.33749,
+      "lat": 56.3423
+    }
+  },
+  {
+    "id": 2620577,
+    "name": "Hee",
+    "country": "DK",
+    "coord": {
+      "lon": 8.2844,
+      "lat": 56.144371
+    }
+  },
+  {
+    "id": 2617822,
+    "name": "Lem",
+    "country": "DK",
+    "coord": {
+      "lon": 8.78626,
+      "lat": 56.591839
+    }
+  },
+  {
+    "id": 2611652,
+    "name": "Tistrup Stationsby",
+    "country": "DK",
+    "coord": {
+      "lon": 8.6043,
+      "lat": 55.717178
+    }
+  },
+  {
+    "id": 2614045,
+    "name": "Sig",
+    "country": "DK",
+    "coord": {
+      "lon": 8.57531,
+      "lat": 55.664619
+    }
+  },
+  {
+    "id": 2621307,
+    "name": "Gørding",
+    "country": "DK",
+    "coord": {
+      "lon": 8.7974,
+      "lat": 55.474651
+    }
+  },
+  {
+    "id": 2612273,
+    "name": "Strandby",
+    "country": "DK",
+    "coord": {
+      "lon": 8.43333,
+      "lat": 55.48333
+    }
+  },
+  {
+    "id": 2621488,
+    "name": "Gesing",
+    "country": "DK",
+    "coord": {
+      "lon": 8.44901,
+      "lat": 55.514439
+    }
+  },
+  {
+    "id": 2624850,
+    "name": "Alken",
+    "country": "DK",
+    "coord": {
+      "lon": 9.84693,
+      "lat": 56.052589
+    }
+  },
+  {
+    "id": 6453496,
+    "name": "Ry",
+    "country": "FR",
+    "coord": {
+      "lon": 1.3445,
+      "lat": 49.471199
+    }
+  },
+  {
+    "id": 2982098,
+    "name": "Ry",
+    "country": "FR",
+    "coord": {
+      "lon": 1.34245,
+      "lat": 49.471352
+    }
+  },
+  {
+    "id": 2623692,
+    "name": "Bording Stationsby",
+    "country": "DK",
+    "coord": {
+      "lon": 9.2765,
+      "lat": 56.144138
+    }
+  },
+  {
+    "id": 2612156,
+    "name": "Studsgård",
+    "country": "DK",
+    "coord": {
+      "lon": 8.9079,
+      "lat": 56.090172
+    }
+  },
+  {
+    "id": 2611221,
+    "name": "Troldhede",
+    "country": "DK",
+    "coord": {
+      "lon": 8.74471,
+      "lat": 55.991539
+    }
+  },
+  {
+    "id": 2623640,
+    "name": "Borris",
+    "country": "DK",
+    "coord": {
+      "lon": 8.64445,
+      "lat": 55.959881
+    }
+  },
+  {
+    "id": 2611731,
+    "name": "Thyregod",
+    "country": "DK",
+    "coord": {
+      "lon": 9.26217,
+      "lat": 55.909039
+    }
+  },
+  {
+    "id": 2618729,
+    "name": "Kliplev",
+    "country": "DK",
+    "coord": {
+      "lon": 9.40849,
+      "lat": 54.935848
+    }
+  },
+  {
+    "id": 2619664,
+    "name": "Humlum",
+    "country": "DK",
+    "coord": {
+      "lon": 8.55035,
+      "lat": 56.540539
+    }
+  },
+  {
+    "id": 2615880,
+    "name": "Oddesund Nord",
+    "country": "DK",
+    "coord": {
+      "lon": 8.54728,
+      "lat": 56.582378
+    }
+  },
+  {
+    "id": 2610971,
+    "name": "Uglev",
+    "country": "DK",
+    "coord": {
+      "lon": 8.54428,
+      "lat": 56.611462
+    }
+  },
+  {
+    "id": 2619553,
+    "name": "Hvidbjerg",
+    "country": "DK",
+    "coord": {
+      "lon": 9.74153,
+      "lat": 55.642731
+    }
+  },
+  {
+    "id": 2617211,
+    "name": "Lyngs",
+    "country": "DK",
+    "coord": {
+      "lon": 8.45206,
+      "lat": 56.665741
+    }
+  },
+  {
+    "id": 2622395,
+    "name": "Ettrup",
+    "country": "DK",
+    "coord": {
+      "lon": 8.40172,
+      "lat": 56.766201
+    }
+  },
+  {
+    "id": 2619863,
+    "name": "Hørdum",
+    "country": "DK",
+    "coord": {
+      "lon": 8.49002,
+      "lat": 56.848751
+    }
+  },
+  {
+    "id": 2613327,
+    "name": "Snedsted",
+    "country": "DK",
+    "coord": {
+      "lon": 8.52436,
+      "lat": 56.892448
+    }
+  },
+  {
+    "id": 2613968,
+    "name": "Sjørring",
+    "country": "DK",
+    "coord": {
+      "lon": 8.5893,
+      "lat": 56.9529
+    }
+  },
+  {
+    "id": 2621236,
+    "name": "Gredstedbro",
+    "country": "DK",
+    "coord": {
+      "lon": 8.73914,
+      "lat": 55.398281
+    }
+  },
+  {
+    "id": 2622765,
+    "name": "Egebæk",
+    "country": "DK",
+    "coord": {
+      "lon": 8.72721,
+      "lat": 55.282299
+    }
+  },
+  {
+    "id": 2614875,
+    "name": "Rejsby",
+    "country": "DK",
+    "coord": {
+      "lon": 8.71643,
+      "lat": 55.23476
+    }
+  },
+  {
+    "id": 2623326,
+    "name": "Brøns",
+    "country": "DK",
+    "coord": {
+      "lon": 8.72857,
+      "lat": 55.194981
+    }
+  },
+  {
+    "id": 2622962,
+    "name": "Døstrup",
+    "country": "DK",
+    "coord": {
+      "lon": 8.80857,
+      "lat": 55.118061
+    }
+  },
+  {
+    "id": 2623505,
+    "name": "Bredebro",
+    "country": "DK",
+    "coord": {
+      "lon": 8.82932,
+      "lat": 55.054829
+    }
+  },
+  {
+    "id": 2610150,
+    "name": "Visby",
+    "country": "DK",
+    "coord": {
+      "lon": 8.7804,
+      "lat": 55.010151
+    }
+  },
+  {
+    "id": 2618989,
+    "name": "Kavslunde",
+    "country": "DK",
+    "coord": {
+      "lon": 9.8096,
+      "lat": 55.48378
+    }
+  },
+  {
+    "id": 2616736,
+    "name": "Mosegård",
+    "country": "DK",
+    "coord": {
+      "lon": 9.90593,
+      "lat": 55.43716
+    }
+  },
+  {
+    "id": 2621522,
+    "name": "Gelsted",
+    "country": "DK",
+    "coord": {
+      "lon": 9.97314,
+      "lat": 55.398781
+    }
+  },
+  {
+    "id": 3204320,
+    "name": "Beli Manastir",
+    "country": "HR",
+    "coord": {
+      "lon": 18.603609,
+      "lat": 45.77
+    }
+  },
+  {
+    "id": 3197230,
+    "name": "Krizevci",
+    "country": "HR",
+    "coord": {
+      "lon": 16.5425,
+      "lat": 46.021938
+    }
+  },
+  {
+    "id": 3198259,
+    "name": "Karlovac",
+    "country": "HR",
+    "coord": {
+      "lon": 15.54778,
+      "lat": 45.487221
+    }
+  },
+  {
+    "id": 3202888,
+    "name": "Cakovec",
+    "country": "HR",
+    "coord": {
+      "lon": 16.433889,
+      "lat": 46.384441
+    }
+  },
+  {
+    "id": 3201047,
+    "name": "Dubrovnik",
+    "country": "HR",
+    "coord": {
+      "lon": 18.092159,
+      "lat": 42.648071
+    }
+  },
+  {
+    "id": 3191648,
+    "name": "Rijeka",
+    "country": "HR",
+    "coord": {
+      "lon": 14.40917,
+      "lat": 45.34306
+    }
+  },
+  {
+    "id": 3190261,
+    "name": "Split",
+    "country": "HR",
+    "coord": {
+      "lon": 16.43915,
+      "lat": 43.508911
+    }
+  },
+  {
+    "id": 3186886,
+    "name": "Zagreb",
+    "country": "HR",
+    "coord": {
+      "lon": 15.97798,
+      "lat": 45.814442
+    }
+  },
+  {
+    "id": 3255123,
+    "name": "Bara",
+    "country": "HR",
+    "coord": {
+      "lon": 18.921391,
+      "lat": 44.987221
+    }
+  },
+  {
+    "id": 6457120,
+    "name": "La Garde-Freinet",
+    "country": "FR",
+    "coord": {
+      "lon": 6.46917,
+      "lat": 43.31694
+    }
+  },
+  {
+    "id": 469671,
+    "name": "Yakhino",
+    "country": "RU",
+    "coord": {
+      "lon": 31.89249,
+      "lat": 56.460629
+    }
+  },
+  {
+    "id": 6451008,
+    "name": "Arâches-la-Frasse",
+    "country": "FR",
+    "coord": {
+      "lon": 6.63145,
+      "lat": 46.04327
+    }
+  },
+  {
+    "id": 6621555,
+    "name": "Flaine",
+    "country": "FR",
+    "coord": {
+      "lon": 6.68956,
+      "lat": 46.006561
+    }
+  },
+  {
+    "id": 6449121,
+    "name": "Mesquer",
+    "country": "FR",
+    "coord": {
+      "lon": -2.46,
+      "lat": 47.399441
+    }
+  },
+  {
+    "id": 2857763,
+    "name": "Öfingen",
+    "country": "DE",
+    "coord": {
+      "lon": 8.63663,
+      "lat": 47.990879
+    }
+  },
+  {
+    "id": 1853908,
+    "name": "Osaka",
+    "country": "JP",
+    "coord": {
+      "lon": 137.266663,
+      "lat": 35.950001
+    }
+  },
+  {
+    "id": 3908895,
+    "name": "Palca",
+    "country": "BO",
+    "coord": {
+      "lon": -64.900002,
+      "lat": -17.700001
+    }
+  },
+  {
+    "id": 959931,
+    "name": "Rooihuiskraal",
+    "country": "ZA",
+    "coord": {
+      "lon": 28.150761,
+      "lat": -25.894279
+    }
+  },
+  {
+    "id": 1764027,
+    "name": "Kampung Sungai Glugur",
+    "country": "MY",
+    "coord": {
+      "lon": 100.31353,
+      "lat": 5.36966
+    }
+  },
+  {
+    "id": 3192224,
+    "name": "Pula",
+    "country": "HR",
+    "coord": {
+      "lon": 13.84806,
+      "lat": 44.868328
+    }
+  },
+  {
+    "id": 1763774,
+    "name": "Kampong Sungai Tanah Liat",
+    "country": "MY",
+    "coord": {
+      "lon": 100.683327,
+      "lat": 4.63333
+    }
+  },
+  {
+    "id": 1735105,
+    "name": "Kampung Sungai Nibung Besar",
+    "country": "MY",
+    "coord": {
+      "lon": 100.300194,
+      "lat": 5.33529
+    }
+  },
+  {
+    "id": 2623514,
+    "name": "Bred",
+    "country": "DK",
+    "coord": {
+      "lon": 10.10227,
+      "lat": 55.374989
+    }
+  },
+  {
+    "id": 2613919,
+    "name": "Skalbjerg",
+    "country": "DK",
+    "coord": {
+      "lon": 10.15256,
+      "lat": 55.367352
+    }
+  },
+  {
+    "id": 1015633,
+    "name": "Brink’s Vlakfontein",
+    "country": "ZA",
+    "coord": {
+      "lon": 27.799999,
+      "lat": -26.183331
+    }
+  },
+  {
+    "id": 3073557,
+    "name": "Klučov",
+    "country": "CZ",
+    "coord": {
+      "lon": 15.93508,
+      "lat": 49.166988
+    }
+  },
+  {
+    "id": 2623412,
+    "name": "Brændekilde",
+    "country": "DK",
+    "coord": {
+      "lon": 10.26712,
+      "lat": 55.347851
+    }
+  },
+  {
+    "id": 3573794,
+    "name": "Saint Clair",
+    "country": "TT",
+    "coord": {
+      "lon": -61.521679,
+      "lat": 10.67039
+    }
+  },
+  {
+    "id": 3310920,
+    "name": "Cooney",
+    "country": "IE",
+    "coord": {
+      "lon": -8.545,
+      "lat": 54.201939
+    }
+  },
+  {
+    "id": 2808686,
+    "name": "Wilhelmshöhe",
+    "country": "DE",
+    "coord": {
+      "lon": 8.58333,
+      "lat": 48.849998
+    }
+  },
+  {
+    "id": 3493000,
+    "name": "Santa Ana Arriba",
+    "country": "DO",
+    "coord": {
+      "lon": -70.349998,
+      "lat": 19.299999
+    }
+  },
+  {
+    "id": 3493612,
+    "name": "Sabana Angosta",
+    "country": "DO",
+    "coord": {
+      "lon": -70.401917,
+      "lat": 19.305401
+    }
+  },
+  {
+    "id": 1880701,
+    "name": "Chye Kay",
+    "country": "SG",
+    "coord": {
+      "lon": 103.824173,
+      "lat": 1.42611
+    }
+  },
+  {
+    "id": 6536421,
+    "name": "Paesana",
+    "country": "IT",
+    "coord": {
+      "lon": 7.27342,
+      "lat": 44.687229
+    }
+  },
+  {
+    "id": 794319,
+    "name": "Kannu",
+    "country": "EE",
+    "coord": {
+      "lon": 27.13139,
+      "lat": 57.90667
+    }
+  },
+  {
+    "id": 4568511,
+    "name": "Valle Verde",
+    "country": "PR",
+    "coord": {
+      "lon": -66.046829,
+      "lat": 18.25745
+    }
+  },
+  {
+    "id": 3110467,
+    "name": "Sallobente-Ermuaran",
+    "country": "ES",
+    "coord": {
+      "lon": -2.38534,
+      "lat": 43.197201
+    }
+  },
+  {
+    "id": 3427435,
+    "name": "Villa Galicia",
+    "country": "AR",
+    "coord": {
+      "lon": -58.379829,
+      "lat": -34.762249
+    }
+  },
+  {
+    "id": 7391131,
+    "name": "San Martin De Porres",
+    "country": "PH",
+    "coord": {
+      "lon": 121.043999,
+      "lat": 14.4961
+    }
+  },
+  {
+    "id": 8015556,
+    "name": "Vieux Lyon",
+    "country": "FR",
+    "coord": {
+      "lon": 4.82613,
+      "lat": 45.759109
+    }
+  },
+  {
+    "id": 3009453,
+    "name": "La Fillotte",
+    "country": "FR",
+    "coord": {
+      "lon": 5.01667,
+      "lat": 47.333328
+    }
+  },
+  {
+    "id": 6540574,
+    "name": "Solbiate Arno",
+    "country": "IT",
+    "coord": {
+      "lon": 8.81433,
+      "lat": 45.72197
+    }
+  },
+  {
+    "id": 6542517,
+    "name": "Solbiate",
+    "country": "IT",
+    "coord": {
+      "lon": 8.93314,
+      "lat": 45.78968
+    }
+  },
+  {
+    "id": 6429924,
+    "name": "Orve",
+    "country": "FR",
+    "coord": {
+      "lon": 6.55389,
+      "lat": 47.325829
+    }
+  },
+  {
+    "id": 2989168,
+    "name": "Orve",
+    "country": "FR",
+    "coord": {
+      "lon": 6.55343,
+      "lat": 47.325619
+    }
+  },
+  {
+    "id": 3574466,
+    "name": "Green Hill",
+    "country": "TT",
+    "coord": {
+      "lon": -61.566669,
+      "lat": 10.73333
+    }
+  },
+  {
+    "id": 4018711,
+    "name": "Altamirano",
+    "country": "MX",
+    "coord": {
+      "lon": -101.949997,
+      "lat": 20.73333
+    }
+  },
+  {
+    "id": 1694781,
+    "name": "Paranaque City",
+    "country": "PH",
+    "coord": {
+      "lon": 121.017487,
+      "lat": 14.48156
+    }
+  },
+  {
+    "id": 8133769,
+    "name": "Dimos Hydra / Ydra (Dimos Ydras)",
+    "country": "GR",
+    "coord": {
+      "lon": 23.433479,
+      "lat": 37.332211
+    }
+  },
+  {
+    "id": 6448071,
+    "name": "Esquibien",
+    "country": "FR",
+    "coord": {
+      "lon": -4.56278,
+      "lat": 48.025002
+    }
+  },
+  {
+    "id": 6573747,
+    "name": "Dongjinwon",
+    "country": "KR",
+    "coord": {
+      "lon": 127.145828,
+      "lat": 37.282501
+    }
+  },
+  {
+    "id": 5916974,
+    "name": "Caribou Ferry",
+    "country": "CA",
+    "coord": {
+      "lon": -62.681938,
+      "lat": 45.73344
+    }
+  },
+  {
+    "id": 1270138,
+    "name": "Hempur",
+    "country": "IN",
+    "coord": {
+      "lon": 80.583328,
+      "lat": 27.633329
+    }
+  },
+  {
+    "id": 485496,
+    "name": "Svoboda",
+    "country": "RU",
+    "coord": {
+      "lon": 38.666672,
+      "lat": 53.433331
+    }
+  },
+  {
+    "id": 1852679,
+    "name": "Seta",
+    "country": "JP",
+    "coord": {
+      "lon": 135.916672,
+      "lat": 34.966671
+    }
+  },
+  {
+    "id": 1847979,
+    "name": "Zeze-Awazumachi",
+    "country": "JP",
+    "coord": {
+      "lon": 135.899994,
+      "lat": 34.98333
+    }
+  },
+  {
+    "id": 2112034,
+    "name": "Maebara",
+    "country": "JP",
+    "coord": {
+      "lon": 140.100006,
+      "lat": 35.099998
+    }
+  },
+  {
+    "id": 6419719,
+    "name": "Chuo",
+    "country": "JP",
+    "coord": {
+      "lon": 140.126663,
+      "lat": 35.60778
+    }
+  },
+  {
+    "id": 1853072,
+    "name": "Sakurabashidōri",
+    "country": "JP",
+    "coord": {
+      "lon": 137.216675,
+      "lat": 36.700001
+    }
+  },
+  {
+    "id": 2114128,
+    "name": "Motodate",
+    "country": "JP",
+    "coord": {
+      "lon": 140.290283,
+      "lat": 38.35944
+    }
+  },
+  {
+    "id": 1898186,
+    "name": "Yakataishi",
+    "country": "JP",
+    "coord": {
+      "lon": 129.925003,
+      "lat": 33.521671
+    }
+  },
+  {
+    "id": 2129048,
+    "name": "Nakanosawa",
+    "country": "JP",
+    "coord": {
+      "lon": 141.550003,
+      "lat": 42.966671
+    }
+  },
+  {
+    "id": 1848575,
+    "name": "Yanada",
+    "country": "JP",
+    "coord": {
+      "lon": 139.483337,
+      "lat": 36.299999
+    }
+  },
+  {
+    "id": 2127436,
+    "name": "Yokohama",
+    "country": "JP",
+    "coord": {
+      "lon": 141.25,
+      "lat": 41.083328
+    }
+  },
+  {
+    "id": 3468504,
+    "name": "Cachoeira",
+    "country": "BR",
+    "coord": {
+      "lon": -49.26667,
+      "lat": -25.33333
+    }
+  },
+  {
+    "id": 595115,
+    "name": "Rumpiškė",
+    "country": "LT",
+    "coord": {
+      "lon": 21.15,
+      "lat": 55.700001
+    }
+  },
+  {
+    "id": 2849775,
+    "name": "Rebberg",
+    "country": "DE",
+    "coord": {
+      "lon": 7.8778,
+      "lat": 48.036999
+    }
+  },
+  {
+    "id": 2523125,
+    "name": "Siano",
+    "country": "IT",
+    "coord": {
+      "lon": 16.6,
+      "lat": 38.916672
+    }
+  },
+  {
+    "id": 2962486,
+    "name": "Mountjoy",
+    "country": "IE",
+    "coord": {
+      "lon": -6.25,
+      "lat": 53.349998
+    }
+  },
+  {
+    "id": 2816052,
+    "name": "Vornhagen",
+    "country": "DE",
+    "coord": {
+      "lon": 9.25,
+      "lat": 52.349998
+    }
+  },
+  {
+    "id": 3169413,
+    "name": "Riese Pio X",
+    "country": "IT",
+    "coord": {
+      "lon": 11.91667,
+      "lat": 45.73333
+    }
+  },
+  {
+    "id": 2798798,
+    "name": "Elverdinge",
+    "country": "BE",
+    "coord": {
+      "lon": 2.8171,
+      "lat": 50.884762
+    }
+  },
+  {
+    "id": 2963297,
+    "name": "Killurin",
+    "country": "IE",
+    "coord": {
+      "lon": -6.575,
+      "lat": 52.384998
+    }
+  },
+  {
+    "id": 1625995,
+    "name": "Sungaidua",
+    "country": "ID",
+    "coord": {
+      "lon": 116.01667,
+      "lat": -3.3
+    }
+  },
+  {
+    "id": 8133868,
+    "name": "Dimos Aristotelis",
+    "country": "GR",
+    "coord": {
+      "lon": 23.7236,
+      "lat": 40.483089
+    }
+  },
+  {
+    "id": 1348591,
+    "name": "Meria",
+    "country": "IN",
+    "coord": {
+      "lon": 88.327782,
+      "lat": 22.976669
+    }
+  },
+  {
+    "id": 6457113,
+    "name": "Le Beausset",
+    "country": "FR",
+    "coord": {
+      "lon": 5.80278,
+      "lat": 43.19833
+    }
+  },
+  {
+    "id": 3272007,
+    "name": "Plitka Draga",
+    "country": "HR",
+    "coord": {
+      "lon": 15.03694,
+      "lat": 44.55444
+    }
+  },
+  {
+    "id": 6439447,
+    "name": "Clenleu",
+    "country": "FR",
+    "coord": {
+      "lon": 1.871,
+      "lat": 50.5233
+    }
+  },
+  {
+    "id": 3024670,
+    "name": "Clenleu",
+    "country": "FR",
+    "coord": {
+      "lon": 1.87892,
+      "lat": 50.524231
+    }
+  },
+  {
+    "id": 6536637,
+    "name": "Caerano di San Marco",
+    "country": "IT",
+    "coord": {
+      "lon": 12.0028,
+      "lat": 45.785198
+    }
+  },
+  {
+    "id": 6543164,
+    "name": "Rogno",
+    "country": "IT",
+    "coord": {
+      "lon": 10.13216,
+      "lat": 45.85659
+    }
+  },
+  {
+    "id": 2802243,
+    "name": "Berendrecht",
+    "country": "BE",
+    "coord": {
+      "lon": 4.31419,
+      "lat": 51.342522
+    }
+  },
+  {
+    "id": 7731911,
+    "name": "Hovila",
+    "country": "FI",
+    "coord": {
+      "lon": 29.120159,
+      "lat": 63.555431
+    }
+  },
+  {
+    "id": 878676,
+    "name": "Zimbabwe",
+    "country": "ZW",
+    "coord": {
+      "lon": 30.91667,
+      "lat": -20.26667
+    }
+  },
+  {
+    "id": 3656356,
+    "name": "Hacienda Rumipamba",
+    "country": "EC",
+    "coord": {
+      "lon": -78.5,
+      "lat": -0.18333
+    }
+  },
+  {
+    "id": 7538533,
+    "name": "Pavão-Pavaozinho",
+    "country": "BR",
+    "coord": {
+      "lon": -43.196621,
+      "lat": -22.980141
+    }
+  },
+  {
+    "id": 7521912,
+    "name": "Consolação",
+    "country": "BR",
+    "coord": {
+      "lon": -46.657909,
+      "lat": -23.548491
+    }
+  },
+  {
+    "id": 4001811,
+    "name": "La Julia",
+    "country": "MX",
+    "coord": {
+      "lon": -117.066673,
+      "lat": 32.48333
+    }
+  },
+  {
+    "id": 4013403,
+    "name": "Colonia Herrera",
+    "country": "MX",
+    "coord": {
+      "lon": -117.066673,
+      "lat": 32.51667
+    }
+  },
+  {
+    "id": 2635808,
+    "name": "Tilty",
+    "country": "GB",
+    "coord": {
+      "lon": 0.31878,
+      "lat": 51.914101
+    }
+  },
+  {
+    "id": 7870801,
+    "name": "Harbourfront",
+    "country": "CA",
+    "coord": {
+      "lon": -79.383003,
+      "lat": 43.638779
+    }
+  },
+  {
+    "id": 2155552,
+    "name": "Nelsons Hill",
+    "country": "AU",
+    "coord": {
+      "lon": 145.25,
+      "lat": -37.799999
+    }
+  },
+  {
+    "id": 1501230,
+    "name": "Kur’ya",
+    "country": "RU",
+    "coord": {
+      "lon": 82.316673,
+      "lat": 51.599998
+    }
+  },
+  {
+    "id": 4017354,
+    "name": "Bascobampo",
+    "country": "MX",
+    "coord": {
+      "lon": -109.650002,
+      "lat": 26.98333
+    }
+  },
+  {
+    "id": 1787768,
+    "name": "Yamenkou",
+    "country": "CN",
+    "coord": {
+      "lon": 116.200279,
+      "lat": 39.882778
+    }
+  },
+  {
+    "id": 1266741,
+    "name": "Khetwādi",
+    "country": "IN",
+    "coord": {
+      "lon": 72.822372,
+      "lat": 18.959909
+    }
+  },
+  {
+    "id": 7091184,
+    "name": "Valenzuela",
+    "country": "PH",
+    "coord": {
+      "lon": 121.025398,
+      "lat": 14.5701
+    }
+  },
+  {
+    "id": 6543133,
+    "name": "Busnago",
+    "country": "IT",
+    "coord": {
+      "lon": 9.46375,
+      "lat": 45.616482
+    }
+  },
+  {
+    "id": 6542529,
+    "name": "Assago",
+    "country": "IT",
+    "coord": {
+      "lon": 9.12565,
+      "lat": 45.408871
+    }
+  },
+  {
+    "id": 6541777,
+    "name": "San Teodoro",
+    "country": "IT",
+    "coord": {
+      "lon": 9.67344,
+      "lat": 40.77037
+    }
+  },
+  {
+    "id": 3167663,
+    "name": "Sestière di Santa Croce",
+    "country": "IT",
+    "coord": {
+      "lon": 12.31842,
+      "lat": 45.439659
+    }
+  },
+  {
+    "id": 6537128,
+    "name": "Pantigliate",
+    "country": "IT",
+    "coord": {
+      "lon": 9.35355,
+      "lat": 45.436771
+    }
+  },
+  {
+    "id": 6536539,
+    "name": "Curno",
+    "country": "IT",
+    "coord": {
+      "lon": 9.60705,
+      "lat": 45.68898
+    }
+  },
+  {
+    "id": 6543740,
+    "name": "Caponago",
+    "country": "IT",
+    "coord": {
+      "lon": 9.37585,
+      "lat": 45.566479
+    }
+  },
+  {
+    "id": 6539477,
+    "name": "Carugate",
+    "country": "IT",
+    "coord": {
+      "lon": 9.34375,
+      "lat": 45.54977
+    }
+  },
+  {
+    "id": 6536291,
+    "name": "Marcon",
+    "country": "IT",
+    "coord": {
+      "lon": 12.29832,
+      "lat": 45.5606
+    }
+  },
+  {
+    "id": 6536527,
+    "name": "Baranzate",
+    "country": "IT",
+    "coord": {
+      "lon": 9.11724,
+      "lat": 45.527168
+    }
+  },
+  {
+    "id": 2950158,
+    "name": "Berlin",
+    "country": "DE",
+    "coord": {
+      "lon": 10.45,
+      "lat": 54.033329
+    }
+  },
+  {
+    "id": 1614875,
+    "name": "Ban Nong Yao",
+    "country": "TH",
+    "coord": {
+      "lon": 100.466667,
+      "lat": 14.88333
+    }
+  },
+  {
+    "id": 8056564,
+    "name": "Al Amān",
+    "country": "AE",
+    "coord": {
+      "lon": 54.423531,
+      "lat": 24.432261
+    }
+  },
+  {
+    "id": 6800035,
+    "name": "Panpo’bon-dong",
+    "country": "KR",
+    "coord": {
+      "lon": 126.987297,
+      "lat": 37.506329
+    }
+  },
+  {
+    "id": 7294501,
+    "name": "Colwall",
+    "country": "GB",
+    "coord": {
+      "lon": -2.37469,
+      "lat": 52.076328
+    }
+  },
+  {
+    "id": 2652518,
+    "name": "Colwall",
+    "country": "GB",
+    "coord": {
+      "lon": -2.38182,
+      "lat": 52.078709
+    }
+  },
+  {
+    "id": 7001297,
+    "name": "Gangxia",
+    "country": "CN",
+    "coord": {
+      "lon": 114.061363,
+      "lat": 22.540331
+    }
+  },
+  {
+    "id": 1899371,
+    "name": "Qingyu",
+    "country": "CN",
+    "coord": {
+      "lon": 107.178787,
+      "lat": 32.21571
+    }
+  },
+  {
+    "id": 1254447,
+    "name": "Timurnī",
+    "country": "IN",
+    "coord": {
+      "lon": 77.216667,
+      "lat": 22.366671
+    }
+  },
+  {
+    "id": 6539673,
+    "name": "Livo",
+    "country": "IT",
+    "coord": {
+      "lon": 9.30414,
+      "lat": 46.168491
+    }
+  },
+  {
+    "id": 3372490,
+    "name": "Valverde",
+    "country": "PT",
+    "coord": {
+      "lon": -25.133329,
+      "lat": 36.950001
+    }
+  },
+  {
+    "id": 7532936,
+    "name": "Wisznia Mała",
+    "country": "PL",
+    "coord": {
+      "lon": 17.030199,
+      "lat": 51.225399
+    }
+  },
+  {
+    "id": 7874460,
+    "name": "Krzyżanowice",
+    "country": "PL",
+    "coord": {
+      "lon": 17.050739,
+      "lat": 51.175251
+    }
+  },
+  {
+    "id": 587977,
+    "name": "Väänikvere",
+    "country": "EE",
+    "coord": {
+      "lon": 26.398331,
+      "lat": 58.513611
+    }
+  },
+  {
+    "id": 3507304,
+    "name": "El Hoyito",
+    "country": "DO",
+    "coord": {
+      "lon": -69.966011,
+      "lat": 19.416969
+    }
+  },
+  {
+    "id": 2814226,
+    "name": "Wanne-Eickel",
+    "country": "DE",
+    "coord": {
+      "lon": 7.16667,
+      "lat": 51.533329
+    }
+  },
+  {
+    "id": 2932026,
+    "name": "Eickelerbruch",
+    "country": "DE",
+    "coord": {
+      "lon": 7.16667,
+      "lat": 51.51667
+    }
+  },
+  {
+    "id": 3197263,
+    "name": "Krivaja",
+    "country": "HR",
+    "coord": {
+      "lon": 16.799999,
+      "lat": 45.716671
+    }
+  },
+  {
+    "id": 2641631,
+    "name": "New Hunstanton",
+    "country": "GB",
+    "coord": {
+      "lon": 0.49211,
+      "lat": 52.936531
+    }
+  },
+  {
+    "id": 2768815,
+    "name": "Pimpfing",
+    "country": "AT",
+    "coord": {
+      "lon": 13.55352,
+      "lat": 48.34267
+    }
+  },
+  {
+    "id": 705797,
+    "name": "Kirovskoye",
+    "country": "UA",
+    "coord": {
+      "lon": 38.363239,
+      "lat": 48.148251
+    }
+  },
+  {
+    "id": 6749251,
+    "name": "Dongbuzi",
+    "country": "TW",
+    "coord": {
+      "lon": 121.306458,
+      "lat": 25.00996
+    }
+  },
+  {
+    "id": 1673200,
+    "name": "Guomin",
+    "country": "TW",
+    "coord": {
+      "lon": 121.616669,
+      "lat": 24
+    }
+  },
+  {
+    "id": 1672222,
+    "name": "Huiyaozi",
+    "country": "TW",
+    "coord": {
+      "lon": 121.12825,
+      "lat": 22.76885
+    }
+  },
+  {
+    "id": 693577,
+    "name": "Svyatohirs’k",
+    "country": "UA",
+    "coord": {
+      "lon": 37.567081,
+      "lat": 49.0382
+    }
+  },
+  {
+    "id": 705798,
+    "name": "Kirovs’ke",
+    "country": "UA",
+    "coord": {
+      "lon": 33.077702,
+      "lat": 45.54504
+    }
+  },
+  {
+    "id": 7280714,
+    "name": "Colonia Roma",
+    "country": "MX",
+    "coord": {
+      "lon": -99.163048,
+      "lat": 19.41819
+    }
+  },
+  {
+    "id": 1006919,
+    "name": "Ebenhaezer",
+    "country": "ZA",
+    "coord": {
+      "lon": 28.283331,
+      "lat": -28.383329
+    }
+  },
+  {
+    "id": 2755862,
+    "name": "Fort",
+    "country": "NL",
+    "coord": {
+      "lon": 6.38611,
+      "lat": 52.651669
+    }
+  },
+  {
+    "id": 3463909,
+    "name": "Estaca",
+    "country": "BR",
+    "coord": {
+      "lon": -54.533329,
+      "lat": -20.299999
+    }
+  },
+  {
+    "id": 2950908,
+    "name": "Benzhausen",
+    "country": "DE",
+    "coord": {
+      "lon": 7.81667,
+      "lat": 48.049999
+    }
+  },
+  {
+    "id": 2757698,
+    "name": "Dedemsvaart",
+    "country": "NL",
+    "coord": {
+      "lon": 6.45833,
+      "lat": 52.599998
+    }
+  },
+  {
+    "id": 5972930,
+    "name": "Hazlet",
+    "country": "CA",
+    "coord": {
+      "lon": -108.60141,
+      "lat": 50.400082
+    }
+  },
+  {
+    "id": 2900248,
+    "name": "Holsterhausen",
+    "country": "DE",
+    "coord": {
+      "lon": 7.18333,
+      "lat": 51.533329
+    }
+  },
+  {
+    "id": 2932029,
+    "name": "Eickel",
+    "country": "DE",
+    "coord": {
+      "lon": 7.18333,
+      "lat": 51.51667
+    }
+  },
+  {
+    "id": 2784102,
+    "name": "Wanne",
+    "country": "BE",
+    "coord": {
+      "lon": 5.92083,
+      "lat": 50.355
+    }
+  },
+  {
+    "id": 2643273,
+    "name": "Lytham",
+    "country": "GB",
+    "coord": {
+      "lon": -2.96293,
+      "lat": 53.73695
+    }
+  },
+  {
+    "id": 5908999,
+    "name": "Bristol",
+    "country": "CA",
+    "coord": {
+      "lon": -76.466103,
+      "lat": 45.533409
+    }
+  },
+  {
+    "id": 1880242,
+    "name": "Somapah Serangoon",
+    "country": "SG",
+    "coord": {
+      "lon": 103.883331,
+      "lat": 1.36667
+    }
+  },
+  {
+    "id": 7910261,
+    "name": "Woodthorpe",
+    "country": "GB",
+    "coord": {
+      "lon": -1.12867,
+      "lat": 52.988991
+    }
+  },
+  {
+    "id": 6449590,
+    "name": "Autreville-sur-la-Renne",
+    "country": "FR",
+    "coord": {
+      "lon": 4.97917,
+      "lat": 48.117222
+    }
+  },
+  {
+    "id": 2978219,
+    "name": "Saint-Martin-sur-la-Renne",
+    "country": "FR",
+    "coord": {
+      "lon": 4.95387,
+      "lat": 48.145119
+    }
+  },
+  {
+    "id": 1507220,
+    "name": "Dovol’noye",
+    "country": "RU",
+    "coord": {
+      "lon": 79.667267,
+      "lat": 54.496498
+    }
+  },
+  {
+    "id": 1438738,
+    "name": "Ḩamāmak",
+    "country": "AF",
+    "coord": {
+      "lon": 61.87384,
+      "lat": 31.705509
+    }
+  },
+  {
+    "id": 7622194,
+    "name": "Perkampungan Kertih Lima",
+    "country": "MY",
+    "coord": {
+      "lon": 103.321899,
+      "lat": 4.5777
+    }
+  },
+  {
+    "id": 6539511,
+    "name": "Pieve Tesino",
+    "country": "IT",
+    "coord": {
+      "lon": 11.61029,
+      "lat": 46.068211
+    }
+  },
+  {
+    "id": 3174159,
+    "name": "Malga Quarazza",
+    "country": "IT",
+    "coord": {
+      "lon": 11.6,
+      "lat": 46.116669
+    }
+  },
+  {
+    "id": 593315,
+    "name": "Velžys",
+    "country": "LT",
+    "coord": {
+      "lon": 24.433331,
+      "lat": 55.700001
+    }
+  },
+  {
+    "id": 3239104,
+    "name": "Občina Naklo",
+    "country": "SI",
+    "coord": {
+      "lon": 14.28667,
+      "lat": 46.29361
+    }
+  },
+  {
+    "id": 3190253,
+    "name": "Spodnja Besnica",
+    "country": "SI",
+    "coord": {
+      "lon": 14.31667,
+      "lat": 46.26667
+    }
+  },
+  {
+    "id": 3502497,
+    "name": "La Guamita",
+    "country": "DO",
+    "coord": {
+      "lon": -70.684601,
+      "lat": 18.92034
+    }
+  },
+  {
+    "id": 2692644,
+    "name": "Marieberg",
+    "country": "SE",
+    "coord": {
+      "lon": 18.01667,
+      "lat": 59.333328
+    }
+  },
+  {
+    "id": 2187821,
+    "name": "Manakau",
+    "country": "NZ",
+    "coord": {
+      "lon": 175.216675,
+      "lat": -40.716671
+    }
+  },
+  {
+    "id": 7910024,
+    "name": "Binalong Bay",
+    "country": "AU",
+    "coord": {
+      "lon": 148.311646,
+      "lat": -41.251141
+    }
+  },
+  {
+    "id": 4011482,
+    "name": "Ejido Pantanito",
+    "country": "MX",
+    "coord": {
+      "lon": -111.050003,
+      "lat": 30.6
+    }
+  },
+  {
+    "id": 3946931,
+    "name": "Aznapuquio",
+    "country": "PE",
+    "coord": {
+      "lon": -77.066673,
+      "lat": -11.98333
+    }
+  },
+  {
+    "id": 3934385,
+    "name": "Naranjal",
+    "country": "PE",
+    "coord": {
+      "lon": -77.062218,
+      "lat": -11.97278
+    }
+  },
+  {
+    "id": 6538777,
+    "name": "Casalbore",
+    "country": "IT",
+    "coord": {
+      "lon": 15.00674,
+      "lat": 41.233921
+    }
+  },
+  {
+    "id": 8131502,
+    "name": "Satara Division",
+    "country": "IN",
+    "coord": {
+      "lon": 73.859283,
+      "lat": 18.51787
+    }
+  },
+  {
+    "id": 8222846,
+    "name": "Solnechnaya",
+    "country": "RU",
+    "coord": {
+      "lon": 131.732803,
+      "lat": 49.237499
+    }
+  },
+  {
+    "id": 3467431,
+    "name": "Cantareira",
+    "country": "BR",
+    "coord": {
+      "lon": -46.633331,
+      "lat": -23.466669
+    }
+  },
+  {
+    "id": 3456225,
+    "name": "Freguesia do O",
+    "country": "BR",
+    "coord": {
+      "lon": -46.699829,
+      "lat": -23.49877
+    }
+  },
+  {
+    "id": 2659921,
+    "name": "Les Pâquis",
+    "country": "CH",
+    "coord": {
+      "lon": 6.14676,
+      "lat": 46.210491
+    }
+  },
+  {
+    "id": 590457,
+    "name": "Määltse",
+    "country": "EE",
+    "coord": {
+      "lon": 22.76,
+      "lat": 58.852779
+    }
+  },
+  {
+    "id": 589004,
+    "name": "Ristivälja",
+    "country": "EE",
+    "coord": {
+      "lon": 22.771391,
+      "lat": 58.850559
+    }
+  },
+  {
+    "id": 3678413,
+    "name": "La Merced",
+    "country": "CO",
+    "coord": {
+      "lon": -74.069221,
+      "lat": 4.6213
+    }
+  },
+  {
+    "id": 6996360,
+    "name": "Biria Mādhogarh",
+    "country": "IN",
+    "coord": {
+      "lon": 79.191002,
+      "lat": 26.260201
+    }
+  },
+  {
+    "id": 1676959,
+    "name": "Erqiao",
+    "country": "TW",
+    "coord": {
+      "lon": 120.366669,
+      "lat": 22.549999
+    }
+  },
+  {
+    "id": 7300019,
+    "name": "Looe",
+    "country": "GB",
+    "coord": {
+      "lon": -4.46111,
+      "lat": 50.352951
+    }
+  },
+  {
+    "id": 3490446,
+    "name": "Four Paths",
+    "country": "JM",
+    "coord": {
+      "lon": -77.291687,
+      "lat": 17.96953
+    }
+  },
+  {
+    "id": 2822234,
+    "name": "Tiergarten",
+    "country": "DE",
+    "coord": {
+      "lon": 13.36667,
+      "lat": 52.51667
+    }
+  },
+  {
+    "id": 6268219,
+    "name": "Kobrino",
+    "country": "RU",
+    "coord": {
+      "lon": 30.11417,
+      "lat": 59.424721
+    }
+  },
+  {
+    "id": 3088150,
+    "name": "Prądnik Czerwony",
+    "country": "PL",
+    "coord": {
+      "lon": 19.97604,
+      "lat": 50.092468
+    }
+  },
+  {
+    "id": 3085041,
+    "name": "Śródmieście",
+    "country": "PL",
+    "coord": {
+      "lon": 19.939581,
+      "lat": 50.061779
+    }
+  },
+  {
+    "id": 7625467,
+    "name": "Tūsāsān",
+    "country": "IR",
+    "coord": {
+      "lon": 50.661572,
+      "lat": 36.919189
+    }
+  },
+  {
+    "id": 3231216,
+    "name": "Kerbonne",
+    "country": "FR",
+    "coord": {
+      "lon": -4.5012,
+      "lat": 48.383282
+    }
+  },
+  {
+    "id": 3231196,
+    "name": "Kéroriou",
+    "country": "FR",
+    "coord": {
+      "lon": -4.48333,
+      "lat": 48.383331
+    }
+  },
+  {
+    "id": 2755996,
+    "name": "Etten-Leur",
+    "country": "NL",
+    "coord": {
+      "lon": 4.63726,
+      "lat": 51.57056
+    }
+  },
+  {
+    "id": 8223990,
+    "name": "Kolonaki",
+    "country": "GR",
+    "coord": {
+      "lon": 23.74103,
+      "lat": 37.978661
+    }
+  },
+  {
+    "id": 6542798,
+    "name": "Cavaso del Tomba",
+    "country": "IT",
+    "coord": {
+      "lon": 11.8984,
+      "lat": 45.860699
+    }
+  },
+  {
+    "id": 6540389,
+    "name": "Asolo",
+    "country": "IT",
+    "coord": {
+      "lon": 11.9117,
+      "lat": 45.792301
+    }
+  },
+  {
+    "id": 6536482,
+    "name": "Castelseprio",
+    "country": "IT",
+    "coord": {
+      "lon": 8.86264,
+      "lat": 45.715969
+    }
+  },
+  {
+    "id": 6542068,
+    "name": "Oppido Lucano",
+    "country": "IT",
+    "coord": {
+      "lon": 15.98667,
+      "lat": 40.761822
+    }
+  },
+  {
+    "id": 6537618,
+    "name": "Filiano",
+    "country": "IT",
+    "coord": {
+      "lon": 15.70616,
+      "lat": 40.810719
+    }
+  },
+  {
+    "id": 3176508,
+    "name": "Frusci",
+    "country": "IT",
+    "coord": {
+      "lon": 15.73333,
+      "lat": 40.783329
+    }
+  },
+  {
+    "id": 663094,
+    "name": "Vatra Veche",
+    "country": "RO",
+    "coord": {
+      "lon": 27.966669,
+      "lat": 45.26667
+    }
+  },
+  {
+    "id": 1665988,
+    "name": "Zhigaozhuang",
+    "country": "TW",
+    "coord": {
+      "lon": 120.61602,
+      "lat": 24.154539
+    }
+  },
+  {
+    "id": 71532,
+    "name": "Muḩāfaz̧at Raymah",
+    "country": "YE",
+    "coord": {
+      "lon": 43.666672,
+      "lat": 14.63333
+    }
+  },
+  {
+    "id": 6940638,
+    "name": "As Salafiyah",
+    "country": "YE",
+    "coord": {
+      "lon": 43.821602,
+      "lat": 14.6866
+    }
+  },
+  {
+    "id": 79657,
+    "name": "Al Ḩabīt",
+    "country": "YE",
+    "coord": {
+      "lon": 43.799999,
+      "lat": 14.75
+    }
+  },
+  {
+    "id": 2864071,
+    "name": "Neustadt",
+    "country": "DE",
+    "coord": {
+      "lon": 12.56667,
+      "lat": 52.400002
+    }
+  },
+  {
+    "id": 1704628,
+    "name": "Mabiga",
+    "country": "PH",
+    "coord": {
+      "lon": 120.585098,
+      "lat": 15.1917
+    }
+  },
+  {
+    "id": 3076348,
+    "name": "Dubí",
+    "country": "CZ",
+    "coord": {
+      "lon": 15.41857,
+      "lat": 49.533878
+    }
+  },
+  {
+    "id": 6811761,
+    "name": "Wŏnsŏngil-tong",
+    "country": "KR",
+    "coord": {
+      "lon": 127.161346,
+      "lat": 36.809792
+    }
+  },
+  {
+    "id": 696416,
+    "name": "Potok",
+    "country": "UA",
+    "coord": {
+      "lon": 25.03334,
+      "lat": 49.512241
+    }
+  },
+  {
+    "id": 6845986,
+    "name": "Mironovka",
+    "country": "RU",
+    "coord": {
+      "lon": 44.214001,
+      "lat": 54.499802
+    }
+  },
+  {
+    "id": 670942,
+    "name": "Petroman",
+    "country": "RO",
+    "coord": {
+      "lon": 21.116671,
+      "lat": 45.533329
+    }
+  },
+  {
+    "id": 2620274,
+    "name": "Hjallese",
+    "country": "DK",
+    "coord": {
+      "lon": 10.38499,
+      "lat": 55.348289
+    }
+  },
+  {
+    "id": 2624596,
+    "name": "Årslev",
+    "country": "DK",
+    "coord": {
+      "lon": 9.3485,
+      "lat": 55.026772
+    }
+  },
+  {
+    "id": 2615199,
+    "name": "Pederstrup",
+    "country": "DK",
+    "coord": {
+      "lon": 10.48753,
+      "lat": 55.285309
+    }
+  },
+  {
+    "id": 2617486,
+    "name": "Lombjerg",
+    "country": "DK",
+    "coord": {
+      "lon": 10.48705,
+      "lat": 55.229301
+    }
+  },
+  {
+    "id": 2622198,
+    "name": "Findinge",
+    "country": "DK",
+    "coord": {
+      "lon": 10.4216,
+      "lat": 55.21748
+    }
+  },
+  {
+    "id": 2618070,
+    "name": "Kværndrup",
+    "country": "DK",
+    "coord": {
+      "lon": 10.52549,
+      "lat": 55.177521
+    }
+  },
+  {
+    "id": 2612594,
+    "name": "Stenstrup",
+    "country": "DK",
+    "coord": {
+      "lon": 10.50474,
+      "lat": 55.133518
+    }
+  },
+  {
+    "id": 2623621,
+    "name": "Borup",
+    "country": "DK",
+    "coord": {
+      "lon": 9.50689,
+      "lat": 56.922081
+    }
+  },
+  {
+    "id": 2750888,
+    "name": "Middeldijk",
+    "country": "NL",
+    "coord": {
+      "lon": 4.51667,
+      "lat": 51.849998
+    }
+  },
+  {
+    "id": 2610888,
+    "name": "Understed",
+    "country": "DK",
+    "coord": {
+      "lon": 10.51667,
+      "lat": 57.383331
+    }
+  },
+  {
+    "id": 2613685,
+    "name": "Skodsborg",
+    "country": "DK",
+    "coord": {
+      "lon": 12.57324,
+      "lat": 55.822498
+    }
+  },
+  {
+    "id": 2613357,
+    "name": "Smidstrup",
+    "country": "DK",
+    "coord": {
+      "lon": 12.55787,
+      "lat": 55.865688
+    }
+  },
+  {
+    "id": 6460975,
+    "name": "Rastnik",
+    "country": "BG",
+    "coord": {
+      "lon": 25.283331,
+      "lat": 41.400002
+    }
+  },
+  {
+    "id": 727762,
+    "name": "Rastnik",
+    "country": "BG",
+    "coord": {
+      "lon": 25.283331,
+      "lat": 41.400002
+    }
+  },
+  {
+    "id": 596826,
+    "name": "Murava",
+    "country": "LT",
+    "coord": {
+      "lon": 23.966669,
+      "lat": 54.916672
+    }
+  }
+]

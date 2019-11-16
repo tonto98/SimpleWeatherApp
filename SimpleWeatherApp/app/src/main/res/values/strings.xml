@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">weather-api-application</string>
+
+    <string name="last_updated_on">last updated on:</string>
+    <string name="five_day_forecast">5-DAY-FORECAST</string>
+
+    <string name="main_activity_last_updated_text">@string/last_updated_on</string>
+    <string name="main_activity_forecast_button">@string/five_day_forecast</string>
+
+    <string name="placeholder_degree_celsius">%1$d℃</string>
+    <string name="placeholder_percent">%1$d%%</string>
+    <string name="placeholder_meters_per_second">%1$dm/s</string>
+    <string name="placeholder_hectopascal">%1$dhPa</string>
+    <string name="placeholder_city_country">%1$s, %2$s</string>
+
+</resources>
